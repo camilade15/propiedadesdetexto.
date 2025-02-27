@@ -1,0 +1,54 @@
+*{
+    background-color: ghostwhite;
+}
+h1{
+  font-size: 40px;
+  color: darkmagenta;
+  text-align: center;  
+}
+
+h2,h3{
+    font-size: 30px;
+}
+/*propiedad text-indent es para agrgera una sangría al texto*/
+.a{text-indent: 50px;}
+.b{text-indent: 3em;}
+.c{text-indent: 20%;}
+.d{text-indent: -50px;}
+
+/*propiedad text-align es para alinear a un lado el texto*/
+.a2{text-align: center;}
+.b2{text-align: right;}
+.c2{text-align: left;}
+.d2{text-align: justify;}
+
+/*propiedad text-decoration es para extablecer el formato de texto a subrayado */
+.a3{text-decoration: underline;}
+.b3{text-decoration: overline;}
+.c3{text-decoration: line-through;}
+.d3{text-decoration: underline line-through;}
+
+/*propiedad letter-spacing define el espacio entre caracteres*/
+.a4{letter-spacing: 3px;}
+.b4{letter-spacing: 10px;}
+.c4{letter-spacing: 15px;}
+
+/*propiedad word-spacing define el espacio entre palabras*/
+.a5{word-spacing: 5px;}
+.b5{word-spacing: 20px;}
+.c5{word-spacing: 50px;}
+
+/*propiedad text-transform especifica el cambio entre mayúsculas y minúsculas del texto*/
+.a6{text-transform: capitalize;}
+.b6{text-transform: uppercase;}
+.c6{text-decoration: LoWeRCASE;}
+
+/*propiedad line-height establece la altura de una casilla remarcada por líneas*/
+.a7{line-height: 50px;}
+.b7{line-height: 3em;}
+.c7{line-height: 20%;}
+
+/*propiedad vertical-aligh especifica el alineado vertical de un elemento en línea o una celda de una tabla*/
+.a8{vertical-align: top;}
+.b8{vertical-align: middle;}
+.c8{vertical-align: bottom;}
